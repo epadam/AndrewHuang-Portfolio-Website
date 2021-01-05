@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/andrewhuang/static/css/main.469341fe.chunk.css",
-    "main.js": "/andrewhuang/static/js/main.f97d5ecc.chunk.js",
-    "main.js.map": "/andrewhuang/static/js/main.f97d5ecc.chunk.js.map",
+    "main.js": "/andrewhuang/static/js/main.6efdfb8e.chunk.js",
+    "main.js.map": "/andrewhuang/static/js/main.6efdfb8e.chunk.js.map",
     "runtime-main.js": "/andrewhuang/static/js/runtime-main.31f9279c.js",
     "runtime-main.js.map": "/andrewhuang/static/js/runtime-main.31f9279c.js.map",
-    "static/js/2.553aeac3.chunk.js": "/andrewhuang/static/js/2.553aeac3.chunk.js",
-    "static/js/2.553aeac3.chunk.js.map": "/andrewhuang/static/js/2.553aeac3.chunk.js.map",
+    "static/js/2.8802f1d7.chunk.js": "/andrewhuang/static/js/2.8802f1d7.chunk.js",
+    "static/js/2.8802f1d7.chunk.js.map": "/andrewhuang/static/js/2.8802f1d7.chunk.js.map",
     "index.html": "/andrewhuang/index.html",
-    "precache-manifest.59be6017af979263f19fe1536fdbb9ed.js": "/andrewhuang/precache-manifest.59be6017af979263f19fe1536fdbb9ed.js",
+    "precache-manifest.93ac4cc5f4f24021b3cfe4a0d953064e.js": "/andrewhuang/precache-manifest.93ac4cc5f4f24021b3cfe4a0d953064e.js",
     "service-worker.js": "/andrewhuang/service-worker.js",
     "static/css/main.469341fe.chunk.css.map": "/andrewhuang/static/css/main.469341fe.chunk.css.map",
-    "static/js/2.553aeac3.chunk.js.LICENSE.txt": "/andrewhuang/static/js/2.553aeac3.chunk.js.LICENSE.txt",
+    "static/js/2.8802f1d7.chunk.js.LICENSE.txt": "/andrewhuang/static/js/2.8802f1d7.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/andrewhuang/static/media/1.cb88fb01.jpg",
     "static/media/2.jpg": "/andrewhuang/static/media/2.29c23ad1.jpg",
     "static/media/3.jpg": "/andrewhuang/static/media/3.61d29bb1.jpg",
@@ -20,6 +20,7 @@
     "static/media/8.jpg": "/andrewhuang/static/media/8.1a9274ae.jpg",
     "static/media/MedMNIST.jpg": "/andrewhuang/static/media/MedMNIST.8fe89aef.jpg",
     "static/media/style.css": "/andrewhuang/static/media/weathericons-regular-webfont.ed0943f2.svg",
+    "static/media/bert.png": "/andrewhuang/static/media/bert.98287852.png",
     "static/media/housesbanner.png": "/andrewhuang/static/media/housesbanner.9159d7f3.png",
     "static/media/img1.jpg": "/andrewhuang/static/media/img1.f098478b.jpg",
     "static/media/img2.jpg": "/andrewhuang/static/media/img2.901c0790.jpg",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.31f9279c.js",
-    "static/js/2.553aeac3.chunk.js",
+    "static/js/2.8802f1d7.chunk.js",
     "static/css/main.469341fe.chunk.css",
-    "static/js/main.f97d5ecc.chunk.js"
+    "static/js/main.6efdfb8e.chunk.js"
   ]
 }
