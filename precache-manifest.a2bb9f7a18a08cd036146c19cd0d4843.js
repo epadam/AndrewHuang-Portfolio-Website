@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc436f189b8b3d6e436d913e4db36d83",
+    "revision": "b2845e85ec054ecbd0d006b80f64d896",
     "url": "/andrewhuang/index.html"
   },
   {
-    "revision": "893eaee169247f06e4f8",
-    "url": "/andrewhuang/static/css/main.5b7ca0cb.chunk.css"
+    "revision": "d45c6ad1bce13d83d515",
+    "url": "/andrewhuang/static/css/main.4f17cb19.chunk.css"
   },
   {
-    "revision": "b488089ab9d29458c6c3",
-    "url": "/andrewhuang/static/js/2.8a2e97d3.chunk.js"
+    "revision": "1566731abb48ebe2dbea",
+    "url": "/andrewhuang/static/js/2.3b5127e2.chunk.js"
   },
   {
     "revision": "fb05820ac4e99e911e1b487b401dc2d2",
-    "url": "/andrewhuang/static/js/2.8a2e97d3.chunk.js.LICENSE.txt"
+    "url": "/andrewhuang/static/js/2.3b5127e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "893eaee169247f06e4f8",
-    "url": "/andrewhuang/static/js/main.5d40e9d4.chunk.js"
+    "revision": "d45c6ad1bce13d83d515",
+    "url": "/andrewhuang/static/js/main.42446402.chunk.js"
   },
   {
     "revision": "ca3f5c8a5d74cc093769",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "17381900be4af9c6c17196d00e3f3042",
     "url": "/andrewhuang/static/media/cv.17381900.jpg"
+  },
+  {
+    "revision": "6b707bbb2ec47ed70121ee6fcefb125b",
+    "url": "/andrewhuang/static/media/data.6b707bbb.jpg"
   },
   {
     "revision": "48d61f016cb4f54bc87a9b89bf417532",
@@ -202,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc3cf0bd5af9550e4d1836a730647860",
     "url": "/andrewhuang/static/media/materialdesignicons-webfont.cc3cf0bd.woff2"
+  },
+  {
+    "revision": "8aea13e0ff4bf34db164f834c75a0680",
+    "url": "/andrewhuang/static/media/nlp.8aea13e0.jpg"
   },
   {
     "revision": "11770caa1f1a2a7b5760dd03a785d0d8",
