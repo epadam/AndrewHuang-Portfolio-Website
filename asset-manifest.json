@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/andrewhuang/static/css/main.a0a6c66a.chunk.css",
-    "main.js": "/andrewhuang/static/js/main.93e59e90.chunk.js",
-    "main.js.map": "/andrewhuang/static/js/main.93e59e90.chunk.js.map",
+    "main.css": "/andrewhuang/static/css/main.190f2726.chunk.css",
+    "main.js": "/andrewhuang/static/js/main.a0206437.chunk.js",
+    "main.js.map": "/andrewhuang/static/js/main.a0206437.chunk.js.map",
     "runtime-main.js": "/andrewhuang/static/js/runtime-main.31f9279c.js",
     "runtime-main.js.map": "/andrewhuang/static/js/runtime-main.31f9279c.js.map",
-    "static/js/2.5ae760f5.chunk.js": "/andrewhuang/static/js/2.5ae760f5.chunk.js",
-    "static/js/2.5ae760f5.chunk.js.map": "/andrewhuang/static/js/2.5ae760f5.chunk.js.map",
+    "static/js/2.d104d5c0.chunk.js": "/andrewhuang/static/js/2.d104d5c0.chunk.js",
+    "static/js/2.d104d5c0.chunk.js.map": "/andrewhuang/static/js/2.d104d5c0.chunk.js.map",
     "index.html": "/andrewhuang/index.html",
-    "precache-manifest.b936ee7669ac148965a11d0efed56dc6.js": "/andrewhuang/precache-manifest.b936ee7669ac148965a11d0efed56dc6.js",
+    "precache-manifest.b9046845fd81ec7da0db3deb9db8fc9b.js": "/andrewhuang/precache-manifest.b9046845fd81ec7da0db3deb9db8fc9b.js",
     "service-worker.js": "/andrewhuang/service-worker.js",
-    "static/css/main.a0a6c66a.chunk.css.map": "/andrewhuang/static/css/main.a0a6c66a.chunk.css.map",
-    "static/js/2.5ae760f5.chunk.js.LICENSE.txt": "/andrewhuang/static/js/2.5ae760f5.chunk.js.LICENSE.txt",
+    "static/css/main.190f2726.chunk.css.map": "/andrewhuang/static/css/main.190f2726.chunk.css.map",
+    "static/js/2.d104d5c0.chunk.js.LICENSE.txt": "/andrewhuang/static/js/2.d104d5c0.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/andrewhuang/static/media/1.cb88fb01.jpg",
     "static/media/2.jpg": "/andrewhuang/static/media/2.29c23ad1.jpg",
     "static/media/3.jpg": "/andrewhuang/static/media/3.61d29bb1.jpg",
@@ -39,12 +39,13 @@
     "static/media/pg.jpg": "/andrewhuang/static/media/pg.3b65c4e4.jpg",
     "static/media/semi.jpg": "/andrewhuang/static/media/semi.1ac6b524.jpg",
     "static/media/sentiment.jpg": "/andrewhuang/static/media/sentiment.538682a5.jpg",
+    "static/media/ts.png": "/andrewhuang/static/media/ts.0003e64e.png",
     "static/media/vis.png": "/andrewhuang/static/media/vis.15266c82.png"
   },
   "entrypoints": [
     "static/js/runtime-main.31f9279c.js",
-    "static/js/2.5ae760f5.chunk.js",
-    "static/css/main.a0a6c66a.chunk.css",
-    "static/js/main.93e59e90.chunk.js"
+    "static/js/2.d104d5c0.chunk.js",
+    "static/css/main.190f2726.chunk.css",
+    "static/js/main.a0206437.chunk.js"
   ]
 }
