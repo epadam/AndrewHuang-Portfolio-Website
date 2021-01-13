@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd0ab8790493c55d6cd1494ef9956ee3",
+    "revision": "cbeea53ef870ce1c3bfa6d8f58cd6dcd",
     "url": "/andrewhuang/index.html"
   },
   {
-    "revision": "3ca2104b2e40e7d83f39",
-    "url": "/andrewhuang/static/css/main.f5cdfe74.chunk.css"
+    "revision": "a6e79f00f481e6e346d1",
+    "url": "/andrewhuang/static/css/main.ffa1a78d.chunk.css"
   },
   {
-    "revision": "dd6711b841124f86eb13",
-    "url": "/andrewhuang/static/js/2.679c362a.chunk.js"
+    "revision": "d18d830ab1c0ba0ced25",
+    "url": "/andrewhuang/static/js/2.502776bf.chunk.js"
   },
   {
     "revision": "fb05820ac4e99e911e1b487b401dc2d2",
-    "url": "/andrewhuang/static/js/2.679c362a.chunk.js.LICENSE.txt"
+    "url": "/andrewhuang/static/js/2.502776bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ca2104b2e40e7d83f39",
-    "url": "/andrewhuang/static/js/main.1cc6236c.chunk.js"
+    "revision": "a6e79f00f481e6e346d1",
+    "url": "/andrewhuang/static/js/main.93344d2a.chunk.js"
   },
   {
     "revision": "ca3f5c8a5d74cc093769",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andrewhuang/static/media/MedMNIST.8fe89aef.jpg"
   },
   {
+    "revision": "a93ebe142911242cddb3c7f45a6a8664",
+    "url": "/andrewhuang/static/media/NG.a93ebe14.png"
+  },
+  {
     "revision": "0bbfc705e37a927ce2ae72b749b3154d",
     "url": "/andrewhuang/static/media/Simple-Line-Icons.0bbfc705.woff"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98287852a4e0b97d171f29148a2e5217",
     "url": "/andrewhuang/static/media/bert.98287852.png"
+  },
+  {
+    "revision": "177f14369a82ea5de559d9ea591759cd",
+    "url": "/andrewhuang/static/media/code.177f1436.png"
   },
   {
     "revision": "3b9876037555524ae1406cb326e48911",
@@ -242,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "538682a54b3d3e1575814784425292ad",
     "url": "/andrewhuang/static/media/sentiment.538682a5.jpg"
+  },
+  {
+    "revision": "f9b65286891d4de2b21c61e4a1b6aaf9",
+    "url": "/andrewhuang/static/media/steal.f9b65286.png"
   },
   {
     "revision": "2c454669bdf3aebf32a1bd8ac1e0d2d6",
